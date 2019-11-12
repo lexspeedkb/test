@@ -1,1 +1,1 @@
-test
+You need to create database with name 'test', and import test.sql in it
